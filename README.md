@@ -1,7 +1,10 @@
-## Patrick Santos
-
+## 👨🏻‍💻 Patrick Santos
 
 **`Estudante Ciência de Dados`**
+
+💻 Data Science | Data Analysis | Data Engineering  
+
+
 
 Olá, sou o Patrick! Estou em transição de carreira para a área de Dados :).
 
@@ -14,25 +17,33 @@ Atualmente estou cursando o tecnólogo em Ciência de Dados, pois descobri um gr
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 <br/>
 <br/>
 
-## Onde me encontrar
+
+## 🔍 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-dsantos/)
 [![Email](https://img.shields.io/badge/Email-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:patrickdsantos@outlook.com.br)
