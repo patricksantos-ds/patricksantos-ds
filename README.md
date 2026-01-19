@@ -45,4 +45,4 @@ Atualmente estou cursando o tecnólogo em Ciência de Dados, pois descobri um gr
 [![Email](https://img.shields.io/badge/Email-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:patrickdsantos@outlook.com.br)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/patricksantos-ds)
 
-![snake gif]
+![snake gif](https://github.com/acpagani/acpagani/blob/output/github-contribution-grid-snake-dark.svg)
